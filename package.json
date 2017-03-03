@@ -1,0 +1,12 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "first-open-source-project-react",
+  "main": "index.js",
+  "author": "Jerred Tam A. Almasco",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
